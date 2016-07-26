@@ -31,3 +31,5 @@ Valid Input for that is:(m,c, n) [n for number of data points do you want]
 
 This means first input, m = 2, c = 3 and you want 50 data points from that line's equation and so on...
 Then you copy the generated values and past it to main window for the target problem.
+
+Do try the exe file situated inside bin/Release.
