@@ -1,0 +1,10 @@
+G:\NextGenRepos\ArchSysSummerCode\ArchSysSummerCode\bin\Debug\ArchSysSummerCode.exe.config
+G:\NextGenRepos\ArchSysSummerCode\ArchSysSummerCode\bin\Debug\ArchSysSummerCode.exe
+G:\NextGenRepos\ArchSysSummerCode\ArchSysSummerCode\bin\Debug\ArchSysSummerCode.pdb
+G:\NextGenRepos\ArchSysSummerCode\ArchSysSummerCode\obj\Debug\ArchSysSummerCode.csprojResolveAssemblyReference.cache
+G:\NextGenRepos\ArchSysSummerCode\ArchSysSummerCode\obj\Debug\ArchSysSummerCode.Form_BaseWindow.resources
+G:\NextGenRepos\ArchSysSummerCode\ArchSysSummerCode\obj\Debug\ArchSysSummerCode.Properties.Resources.resources
+G:\NextGenRepos\ArchSysSummerCode\ArchSysSummerCode\obj\Debug\ArchSysSummerCode.csproj.GenerateResource.Cache
+G:\NextGenRepos\ArchSysSummerCode\ArchSysSummerCode\obj\Debug\ArchSysSummerCode.exe
+G:\NextGenRepos\ArchSysSummerCode\ArchSysSummerCode\obj\Debug\ArchSysSummerCode.pdb
+G:\NextGenRepos\ArchSysSummerCode\ArchSysSummerCode\obj\Debug\ArchSysSummerCode.inputCreator.resources
